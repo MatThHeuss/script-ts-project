@@ -31,4 +31,8 @@ echo "node_modules" > .gitignore
 
 git init
 
+echo "Opening project in VsCode"
+
+code .
+
 printf "${Green}Done!\n"
